@@ -1955,6 +1955,7 @@ function Compkiller:_AddLinkValue(Name , Default , GlobalBlock , LinkValues , re
 			LeftAlt = "LAlt",
 			RightAlt = "RAlt",
 			Escape = "Esc",
+			Insert = "Ins",
 		};
 
 		local GetItem = function(item)
